@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Ferrari\bin\Debug\netcoreapp2.0\Ferrari.deps.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Ferrari\bin\Debug\netcoreapp2.0\Ferrari.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Ferrari\bin\Debug\netcoreapp2.0\Ferrari.runtimeconfig.dev.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Ferrari\bin\Debug\netcoreapp2.0\Ferrari.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Ferrari\bin\Debug\netcoreapp2.0\Ferrari.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Ferrari\obj\Debug\netcoreapp2.0\Ferrari.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Ferrari\obj\Debug\netcoreapp2.0\Ferrari.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Ferrari\obj\Debug\netcoreapp2.0\Ferrari.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Ferrari\obj\Debug\netcoreapp2.0\Ferrari.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Ferrari\obj\Debug\netcoreapp2.0\Ferrari.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Ferrari\obj\Debug\netcoreapp2.0\Ferrari.pdb

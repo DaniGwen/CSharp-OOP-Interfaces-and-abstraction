@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\5.BorderControl\bin\Debug\netcoreapp2.0\5.BorderControl.deps.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\5.BorderControl\bin\Debug\netcoreapp2.0\5.BorderControl.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\5.BorderControl\bin\Debug\netcoreapp2.0\5.BorderControl.runtimeconfig.dev.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\5.BorderControl\bin\Debug\netcoreapp2.0\5.BorderControl.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\5.BorderControl\bin\Debug\netcoreapp2.0\5.BorderControl.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\5.BorderControl\obj\Debug\netcoreapp2.0\5.BorderControl.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\5.BorderControl\obj\Debug\netcoreapp2.0\5.BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\5.BorderControl\obj\Debug\netcoreapp2.0\5.BorderControl.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\5.BorderControl\obj\Debug\netcoreapp2.0\5.BorderControl.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\5.BorderControl\obj\Debug\netcoreapp2.0\5.BorderControl.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\5.BorderControl\obj\Debug\netcoreapp2.0\5.BorderControl.pdb

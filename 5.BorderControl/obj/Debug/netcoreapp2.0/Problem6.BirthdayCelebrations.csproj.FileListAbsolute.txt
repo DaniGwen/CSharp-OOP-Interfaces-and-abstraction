@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Problem6.BirthdayCelebrations\bin\Debug\netcoreapp2.0\Problem6.BirthdayCelebrations.deps.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Problem6.BirthdayCelebrations\bin\Debug\netcoreapp2.0\Problem6.BirthdayCelebrations.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Problem6.BirthdayCelebrations\bin\Debug\netcoreapp2.0\Problem6.BirthdayCelebrations.runtimeconfig.dev.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Problem6.BirthdayCelebrations\bin\Debug\netcoreapp2.0\Problem6.BirthdayCelebrations.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Problem6.BirthdayCelebrations\bin\Debug\netcoreapp2.0\Problem6.BirthdayCelebrations.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Problem6.BirthdayCelebrations\obj\Debug\netcoreapp2.0\Problem6.BirthdayCelebrations.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Problem6.BirthdayCelebrations\obj\Debug\netcoreapp2.0\Problem6.BirthdayCelebrations.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Problem6.BirthdayCelebrations\obj\Debug\netcoreapp2.0\Problem6.BirthdayCelebrations.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Problem6.BirthdayCelebrations\obj\Debug\netcoreapp2.0\Problem6.BirthdayCelebrations.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Problem6.BirthdayCelebrations\obj\Debug\netcoreapp2.0\Problem6.BirthdayCelebrations.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Problem6.BirthdayCelebrations\obj\Debug\netcoreapp2.0\Problem6.BirthdayCelebrations.pdb

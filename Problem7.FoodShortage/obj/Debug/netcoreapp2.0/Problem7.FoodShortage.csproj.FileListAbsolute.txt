@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Problem7.FoodShortage\bin\Debug\netcoreapp2.0\Problem7.FoodShortage.deps.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Problem7.FoodShortage\bin\Debug\netcoreapp2.0\Problem7.FoodShortage.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Problem7.FoodShortage\bin\Debug\netcoreapp2.0\Problem7.FoodShortage.runtimeconfig.dev.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Problem7.FoodShortage\bin\Debug\netcoreapp2.0\Problem7.FoodShortage.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Problem7.FoodShortage\bin\Debug\netcoreapp2.0\Problem7.FoodShortage.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Problem7.FoodShortage\obj\Debug\netcoreapp2.0\Problem7.FoodShortage.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Problem7.FoodShortage\obj\Debug\netcoreapp2.0\Problem7.FoodShortage.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Problem7.FoodShortage\obj\Debug\netcoreapp2.0\Problem7.FoodShortage.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Problem7.FoodShortage\obj\Debug\netcoreapp2.0\Problem7.FoodShortage.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Problem7.FoodShortage\obj\Debug\netcoreapp2.0\Problem7.FoodShortage.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp OOP Interfaces and abstraction\Problem7.FoodShortage\obj\Debug\netcoreapp2.0\Problem7.FoodShortage.pdb
