@@ -17,9 +17,18 @@ namespace _04.HotelReservation
 			var pricePerDay = decimal.Parse(tokens[0]);
 			var numberOfdays = int.Parse(tokens[1]);
 			var season = tokens[2];
-			var discount = tokens[3];
+            var discount = "";
 
-			PriceCalculator calculator = new PriceCalculator(pricePerDay, numberOfdays, season, discount);
+            if (tokens.Length > 3)
+            {
+                discount = tokens[3]; 
+            }
+            else
+            {
+                discount = "None";
+            }
+
+		    var calculator = new PriceCalculator(pricePerDay, numberOfdays, season, discount);
 			Console.WriteLine(calculator.ToString());
 
 		}
