@@ -670,15 +670,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\Visual Studio 2017\\Projects\\CSharp OOP Interfaces and abstraction\\Problem4.Telephony\\Problem4.Telephony.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\Visual Studio 2017\\Projects\\CSHARP FUNDAMENTALS OOP\\CSharp OOP Interfaces and abstraction\\Problem4.Telephony\\Problem4.Telephony.csproj",
       "projectName": "Problem4.Telephony",
-      "projectPath": "C:\\Users\\user\\Documents\\Visual Studio 2017\\Projects\\CSharp OOP Interfaces and abstraction\\Problem4.Telephony\\Problem4.Telephony.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\Visual Studio 2017\\Projects\\CSHARP FUNDAMENTALS OOP\\CSharp OOP Interfaces and abstraction\\Problem4.Telephony\\Problem4.Telephony.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\Visual Studio 2017\\Projects\\CSharp OOP Interfaces and abstraction\\Problem4.Telephony\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\Visual Studio 2017\\Projects\\CSHARP FUNDAMENTALS OOP\\CSharp OOP Interfaces and abstraction\\Problem4.Telephony\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

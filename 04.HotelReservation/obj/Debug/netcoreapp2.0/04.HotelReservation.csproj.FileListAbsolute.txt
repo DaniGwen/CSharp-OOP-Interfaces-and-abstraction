@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSHARP FUNDAMENTALS OOP\CSharp OOP Interfaces and abstraction\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.deps.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSHARP FUNDAMENTALS OOP\CSharp OOP Interfaces and abstraction\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSHARP FUNDAMENTALS OOP\CSharp OOP Interfaces and abstraction\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.runtimeconfig.dev.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSHARP FUNDAMENTALS OOP\CSharp OOP Interfaces and abstraction\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSHARP FUNDAMENTALS OOP\CSharp OOP Interfaces and abstraction\04.HotelReservation\bin\Debug\netcoreapp2.0\04.HotelReservation.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSHARP FUNDAMENTALS OOP\CSharp OOP Interfaces and abstraction\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSHARP FUNDAMENTALS OOP\CSharp OOP Interfaces and abstraction\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSHARP FUNDAMENTALS OOP\CSharp OOP Interfaces and abstraction\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSHARP FUNDAMENTALS OOP\CSharp OOP Interfaces and abstraction\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSHARP FUNDAMENTALS OOP\CSharp OOP Interfaces and abstraction\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSHARP FUNDAMENTALS OOP\CSharp OOP Interfaces and abstraction\04.HotelReservation\obj\Debug\netcoreapp2.0\04.HotelReservation.pdb

@@ -670,15 +670,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\Visual Studio 2017\\Projects\\CSharp OOP Interfaces and abstraction\\Problem6BirthdayCelebrations\\Problem6.BirthdayCelebrations.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\Visual Studio 2017\\Projects\\CSHARP FUNDAMENTALS OOP\\CSharp OOP Interfaces and abstraction\\Problem6BirthdayCelebrations\\Problem6.BirthdayCelebrations.csproj",
       "projectName": "Problem6.BirthdayCelebrations",
-      "projectPath": "C:\\Users\\user\\Documents\\Visual Studio 2017\\Projects\\CSharp OOP Interfaces and abstraction\\Problem6BirthdayCelebrations\\Problem6.BirthdayCelebrations.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\Visual Studio 2017\\Projects\\CSHARP FUNDAMENTALS OOP\\CSharp OOP Interfaces and abstraction\\Problem6BirthdayCelebrations\\Problem6.BirthdayCelebrations.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\Visual Studio 2017\\Projects\\CSharp OOP Interfaces and abstraction\\Problem6BirthdayCelebrations\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\Visual Studio 2017\\Projects\\CSHARP FUNDAMENTALS OOP\\CSharp OOP Interfaces and abstraction\\Problem6BirthdayCelebrations\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
