@@ -2,10 +2,10 @@
 
 namespace _04.HotelReservation
 {
-    class StartUp
-    {
-        static void Main()
-        {
+	class StartUp
+	{
+		static void Main()
+		{
 			string input = Console.ReadLine();
 
 			ReadInput(input);
@@ -16,10 +16,17 @@ namespace _04.HotelReservation
 			var tokens = input.Split();
 			var pricePerDay = decimal.Parse(tokens[0]);
 			var numberOfdays = int.Parse(tokens[1]);
-			var season = tokens[2];
-			var discount = tokens[3];
+			var season = Enum.Parse<SeasonsMultiplier>(tokens[2]);
+			DiscountType discount = 0;
+			if (tokens.Length > 3)
+			{
+				discount = Enum.Parse<DiscountType>(tokens[3]);
+			}
+			discount = DiscountType.None;
 
-			PriceCalculator calculator = new PriceCalculator(pricePerDay, numberOfdays, season, discount);
+			PriceCalculator calculator =
+				new PriceCalculator(pricePerDay, numberOfdays, season, discount);
+
 			Console.WriteLine(calculator.ToString());
 
 		}

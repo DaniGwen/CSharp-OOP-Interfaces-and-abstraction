@@ -4,9 +4,9 @@ using System.Text;
 
 namespace _04.HotelReservation
 {
-   public enum Seasons
+   public enum SeasonsMultiplier
     {
-		Autumn,
+		Autumn = 1,
 		Spring,
 		Winter,
 		Summer

@@ -6,8 +6,8 @@ namespace _04.HotelReservation
 {
     public enum DiscountType
     {
-		Vip,
-		SecondTimeVisit,
-		NoDiscount
+		VIP = 20,
+		SecondVisit = 10,
+		None = 0
     }
 }
