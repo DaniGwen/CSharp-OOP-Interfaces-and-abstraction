@@ -664,24 +664,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\deko\\.nuget\\packages\\": {},
+    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\deko\\Documents\\Visual Studio 2017\\projects\\CSharp Abstraction\\Exercises\\Problem7.FoodShortage\\Problem7.FoodShortage.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\Visual Studio 2017\\Projects\\CSHARP FUNDAMENTALS OOP\\CSharp OOP Interfaces and abstraction\\Problem7.FoodShortage\\Problem7.FoodShortage.csproj",
       "projectName": "Problem7.FoodShortage",
-      "projectPath": "C:\\Users\\deko\\Documents\\Visual Studio 2017\\projects\\CSharp Abstraction\\Exercises\\Problem7.FoodShortage\\Problem7.FoodShortage.csproj",
-      "packagesPath": "C:\\Users\\deko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\deko\\Documents\\Visual Studio 2017\\projects\\CSharp Abstraction\\Exercises\\Problem7.FoodShortage\\obj\\",
+      "projectPath": "C:\\Users\\user\\Documents\\Visual Studio 2017\\Projects\\CSHARP FUNDAMENTALS OOP\\CSharp OOP Interfaces and abstraction\\Problem7.FoodShortage\\Problem7.FoodShortage.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Documents\\Visual Studio 2017\\Projects\\CSHARP FUNDAMENTALS OOP\\CSharp OOP Interfaces and abstraction\\Problem7.FoodShortage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\deko\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
